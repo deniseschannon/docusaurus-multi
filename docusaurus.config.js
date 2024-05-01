@@ -82,6 +82,13 @@ const config = {
             position: 'left'
           },
           {
+            type: 'docsVersionDropdown',
+          },
+          {
+            type: 'docsVersionDropdown',
+            docsPluginId: 'demo',
+          },
+          {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
